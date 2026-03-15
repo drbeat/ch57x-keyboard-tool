@@ -307,3 +307,4 @@ python3 -m mouse
 | 3×3 with 2 knobs  | ![keyboard-12-2](doc/keyboard-12-2.png)
 | 4x3 with 3 knobs  | ![keyboard-4-3](doc/keyboard-4-3.png)
 | 4×1 without knobs | ![keyboard-4-1](doc/keyboard-4-1.png)
+| 5×3 with 3 knobs  | ![keyboard-15-3](doc/keyboard-15-3.png)
